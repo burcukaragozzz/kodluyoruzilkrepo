@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ```
 git clone https://github.com/burcukaragozzz/kodluyoruzilkrepo.git
-`
+```
 
 ## Usage
 
